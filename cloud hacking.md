@@ -32,7 +32,7 @@
 - ▪ Burp Suite with AWS Extension: Can be used for testing S3
 - --
 
-![](Pasted /images ٢٠٢٥٠٨٢٩١٥١٠٤٦.png)
+[![](Pasted /images ٢٠٢٥٠٨٢٩١٥١٠٤٦.png)](https://github.com/ma7moud888/red-teaming-web-summary/issues/1#issue-3370715602)
 - اولا نت عشان تاجر سيرفر بيدوك حاجه زي username  الحاجه دي بعد كدا بيتستعملوها في  ان هما بيدوك bucket ممكن تتاجر سيرفر مثلا لحد 1 TB ram او اكتر 
 - بعد كدا هما بيربطوا الدومين بتاعك ال نت ماجرله السيرفر عليه عن طريق CNAME  
 - ممكن تعرفه عن طريق امر dig + domain name  من غير http or https 
